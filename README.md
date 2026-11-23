@@ -10,7 +10,7 @@ A command-line scientific and continuous-chain calculator built in Python using 
 
 ## 🚀 How to Run
 ```bash
-git clone https://github.com
+git clone https://github.com/HappyKn1ght/cli-calculator
 cd cli-calculator
 python main.py
 ```
