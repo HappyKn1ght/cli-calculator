@@ -8,9 +8,23 @@ A command-line scientific and continuous-chain calculator built in Python using 
 - **Scientific Operations:** Square Root (`sqrt`), Factorial (`fact`), Base-10 Logarithm (`log`), and Degree-Based Trigonometry (`sin`, `cos`, `tan`).
 - **Crash-Proof Validation:** Guards against non-numeric text (`ValueError`), `nan`/`inf`, division by zero, negative square roots, and non-integer factorials.
 
+## 🛠️ Tech Stack
+- **Language:** Python 3 (Standard Library only — zero external dependencies)
+
+---
+
 ## 🚀 How to Run
-```bash
-git clone https://github.com/HappyKn1ght/cli-calculator
-cd cli-calculator
-python main.py
-```
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/HappyKn1ght/cli-calculator.git
+   ```
+2. **Navigate into the project folder:**
+   ```bash
+   cd cli-calculator
+   ```
+3. **Run the program:**
+   ```bash
+   python main.py
+   ```
+
+---
