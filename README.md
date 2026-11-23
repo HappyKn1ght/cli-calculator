@@ -1,4 +1,4 @@
-# 🧮 Scientific & Chain Calculator (Python CLI)
+# 🧮 Scientific CLI Calculator (Python CLI)
 
 A command-line scientific and continuous-chain calculator built in Python using `match / case` pattern matching and the built-in `math` module.
 
